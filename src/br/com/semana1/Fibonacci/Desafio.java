@@ -1,4 +1,4 @@
-package br.com.semana1;
+package br.com.semana1.Fibonacci;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
